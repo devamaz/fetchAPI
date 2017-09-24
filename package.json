@@ -1,0 +1,19 @@
+{
+  "name": "fetchapi",
+  "version": "1.0.0",
+  "description": "how to use fetch API get and post data.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-m-a-z/fetchAPI.git"
+  },
+  "author": "Ahmad Abdul-Aziz (Amaz-Tech)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-m-a-z/fetchAPI/issues"
+  },
+  "homepage": "https://github.com/a-m-a-z/fetchAPI#readme"
+}

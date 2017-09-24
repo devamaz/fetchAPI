@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Ahmad Abdul-Aziz",
+        "email": "Ahmad.abdulaziz37@gmail.com"     
+    },
+    {
+        "id": 2,
+        "name": "Ahmad Habib Hussein",
+        "email": "Ahmadhabibhussein@mail.com"     
+    },
+    {
+        "id": 3,
+        "name": "Abdullahi Aminu",
+        "email": "Aminuawesome@mail.com"     
+    },
+    {
+        "id": 4,
+        "name": "Idris Muhammad",
+        "email": "rismad@mail.com"     
+    }
+
+]
